@@ -1,0 +1,23 @@
+header.masthead {
+  background-image: url(../../assets/img/header-bg1.jpg);
+  opacity: 1;
+}
+
+.intro-text {
+  opacity: 1;
+}
+
+span {
+  opacity: 1;
+  filter: brightness(114%) contrast(96%) grayscale(9%) hue-rotate(0deg);
+}
+
+.btn.btn-primary.btn-lg.btn-xl.text-uppercase.js-scroll-trigger {
+  background-color: rgba(18,141,255,0.89);
+  font-family: 'Roboto Slab', serif;
+}
+
+.list-group-item {
+  border: none;
+}
+
